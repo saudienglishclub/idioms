@@ -12,7 +12,7 @@
 
 **كنز الأمثال** مشروع إبداعي سهل الاستخدام أطلقه نادي اللغة الإنجليزية والنادي السعودي للغة الإنجليزية كمبادرة لدعم المجتمع بشكل مجاني. يتيح لك استكشاف وتعلم الأمثال باللغتين العربية والإنجليزية بطريقة ممتعة وسلسة.
 
-<img src="https://i.imgur.com/WbHQtv6.jpeg" alt="لقطة شاشة للتطبيق" width="80%">
+<img src="https://i.imgur.com/aOQj51y.png" alt="لقطة شاشة للتطبيق" width="80%">
 
 </div>
 
@@ -84,7 +84,7 @@
 **Idioms Treasure** is a creative, user-friendly project launched by the English Club and Saudi English Club as a free community initiative. It allows you to explore and learn idioms in both Arabic and English in an enjoyable and seamless way.
 
 <div align="center">
-  <img src="https://i.imgur.com/WbHQtv6.jpeg" alt="Application Screenshot" width="80%">
+  <img src="https://i.imgur.com/aOQj51y.png" alt="Application Screenshot" width="80%">
 </div>
 
 ## 🚀 Key Features
