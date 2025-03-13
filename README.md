@@ -1,19 +1,90 @@
 # 🏆 كنز الأمثال - Idioms Treasure
 
+<div align="center" dir="rtl">
+  <img src="https://i.imgur.com/WgwIZOl.png" alt="Idioms Treasure Logo" width="250">
+  
+  [![Visit Website](https://img.shields.io/badge/Visit_Website-idioms.bss.design-4285F4?style=for-the-badge&logo=chrome&logoColor=white)](https://idioms.bss.design)
+</div>
+
+<div align="center" dir="rtl">
+
+## ✨ نظرة عامة
+
+**كنز الأمثال** مشروع إبداعي سهل الاستخدام أطلقه نادي اللغة الإنجليزية والنادي السعودي للغة الإنجليزية كمبادرة لدعم المجتمع بشكل مجاني. يتيح لك استكشاف وتعلم الأمثال باللغتين العربية والإنجليزية بطريقة ممتعة وسلسة.
+
+<img src="https://i.imgur.com/WbHQtv6.jpeg" alt="لقطة شاشة للتطبيق" width="80%">
+
+</div>
+
+## 🚀 المميزات الرئيسية
+
+<div dir="rtl">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔍 بحث سهل</h3>
+      <p>ابحث عن الأمثال بكلتا اللغتين بكل سهولة ويسر</p>
+    </td>
+    <td width="50%">
+      <h3>🔄 تعلّم تفاعلي</h3>
+      <p>بطاقات تفاعلية تنقلب لتعرض المعنى والشرح</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 دعم لغتين</h3>
+      <p>تصفح بالعربية أو الإنجليزية حسب رغبتك</p>
+    </td>
+    <td width="50%">
+      <h3>📱 يعمل على كل الأجهزة</h3>
+      <p>استمتع بتجربة رائعة على الجوال أو الكمبيوتر</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 🎯 لمن هذا التطبيق؟
+
+<div dir="rtl">
+<ul>
+  <li>الناطقين بالعربية الراغبين في تعلم الأمثال الإنجليزية</li>
+  <li>الناطقين بالإنجليزية المهتمين باكتشاف الأمثال العربية</li>
+  <li>المهتمين باللغات والثقافات المختلفة</li>
+  <li>الطلاب والمعلمين في مجال تعليم اللغات</li>
+</ul>
+</div>
+
+## 📝 كيف تبدأ؟
+
+<div dir="rtl">
+<ol>
+  <li>زور موقعنا <a href="https://idioms.bss.design">idioms.bss.design</a></li>
+  <li>ابحث عن مثل باللغة التي تفضلها</li>
+  <li>اضغط على البطاقة لتنقلب وتظهر الترجمة والشرح</li>
+  <li>احفظ المفضلة لديك للعودة إليها لاحقاً</li>
+</ol>
+</div>
+
+<div align="center" dir="rtl">
+  <p>صُنع بكل ❤️ بواسطة النادي السعودي للغة الإنجليزية</p>
+</div>
+
+---
+
+# 🏆 Idioms Treasure - كنز الأمثال
+
 <div align="center">
   <img src="https://i.imgur.com/WgwIZOl.png" alt="Idioms Treasure Logo" width="250">
   
   [![Visit Website](https://img.shields.io/badge/Visit_Website-idioms.bss.design-4285F4?style=for-the-badge&logo=chrome&logoColor=white)](https://idioms.bss.design)
-  [![Stars](https://img.shields.io/github/stars/yourusername/idioms-treasure?style=for-the-badge&color=yellow)](https://github.com/yourusername/idioms-treasure/stargazers)
-  [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 </div>
 
 ## ✨ Overview
 
-**Idioms Treasure** (كنز الأمثال) is an innovative bilingual platform that bridges cultural understanding through idiomatic expressions. Developed as part of the English Club and Saudi English Club's initiative for free community support.
+**Idioms Treasure** is a creative, user-friendly project launched by the English Club and Saudi English Club as a free community initiative. It allows you to explore and learn idioms in both Arabic and English in an enjoyable and seamless way.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Idioms+Treasure+Screenshot" alt="Application Screenshot" width="80%">
+  <img src="https://i.imgur.com/WbHQtv6.jpeg" alt="Application Screenshot" width="80%">
 </div>
 
 ## 🚀 Key Features
@@ -21,112 +92,39 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🔍 Smart Search</h3>
-      <p>Intuitive search functionality to find idioms in both Arabic and English</p>
+      <h3>🔍 Easy Search</h3>
+      <p>Find idioms in both languages with ease</p>
     </td>
     <td width="50%">
       <h3>🔄 Interactive Learning</h3>
-      <p>Card-flip system for an engaging learning experience</p>
+      <p>Flip cards to reveal meanings and explanations</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🌐 Bilingual Support</h3>
-      <p>Full support for both Arabic and English languages</p>
+      <p>Browse in Arabic or English as you prefer</p>
     </td>
     <td width="50%">
-      <h3>📱 Responsive Design</h3>
-      <p>Perfect experience across all devices</p>
+      <h3>📱 Works on All Devices</h3>
+      <p>Enjoy a great experience on mobile or desktop</p>
     </td>
   </tr>
 </table>
 
 ## 🎯 Who Is This For?
 
-- Arabic speakers looking to enhance their English skills
-- English speakers interested in learning Arabic expressions
-- Language enthusiasts and cultural explorers
-- Students and educators in language learning environments
-
-## 🛠️ Technology Stack
-
-- Frontend: HTML5, CSS3, JavaScript
-- Responsive Framework: Bootstrap
-- Animations: CSS Animations & jQuery
-- Hosting: BSS Design Platform
+- Arabic speakers wanting to learn English idioms
+- English speakers interested in discovering Arabic expressions
+- Language and culture enthusiasts
+- Students and teachers in language education
 
 ## 📝 Getting Started
 
-1. Visit [idioms.bss.design](https://idioms.bss.design)
-2. Search for an idiom in either language
-3. Flip the cards to see translations and explanations
-4. Bookmark your favorites for future reference
-
-## 🌟 Join Our Community
-
-We welcome contributions and feedback! Whether you're a developer, language expert, or enthusiast, there are many ways to get involved:
-
-- Submit new idioms
-- Improve translations
-- Enhance the user interface
-- Report issues or suggest features
-
----
-
-<div align="center" dir="rtl">
-
-# 🏆 كنز الأمثال
-
-<p>منصة مبتكرة ثنائية اللغة تجسر التفاهم الثقافي من خلال التعبيرات الاصطلاحية</p>
-
-[![زيارة الموقع](https://img.shields.io/badge/زيارة_الموقع-idioms.bss.design-4285F4?style=for-the-badge&logo=chrome&logoColor=white)](https://idioms.bss.design)
-
-</div>
-
-## ✨ نظرة عامة
-
-**كنز الأمثال** هو مشروع مبتكر وسهل الاستخدام تم تطويره كجزء من مبادرة نادي اللغة الإنجليزية والنادي السعودي للغة الإنجليزية لدعم المجتمع مجانًا. يوفر هذا المشروع طريقة سلسة وسهلة الوصول لاستكشاف وتعلم الأمثال باللغتين العربية والإنجليزية.
-
-## 🚀 الميزات الرئيسية
-
-<div dir="rtl">
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔍 بحث ذكي</h3>
-      <p>وظيفة بحث سهلة وبديهية للعثور على الأمثال بكلتا اللغتين</p>
-    </td>
-    <td width="50%">
-      <h3>🔄 تعلم تفاعلي</h3>
-      <p>نظام بطاقات تفاعلي لتجربة تعليمية ممتعة</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 دعم ثنائي اللغة</h3>
-      <p>دعم كامل للغتين العربية والإنجليزية</p>
-    </td>
-    <td width="50%">
-      <h3>📱 تصميم متجاوب</h3>
-      <p>تجربة مثالية عبر جميع الأجهزة</p>
-    </td>
-  </tr>
-</table>
-</div>
-
-## 🎯 لمن هذا المشروع؟
-
-- الناطقين بالعربية الراغبين في تحسين مهاراتهم في اللغة الإنجليزية
-- الناطقين بالإنجليزية المهتمين بتعلم التعبيرات العربية
-- محبي اللغة ومستكشفي الثقافات
-- الطلاب والمعلمين في بيئات تعلم اللغة
-
-## 📝 كيفية البدء
-
-1. قم بزيارة [idioms.bss.design](https://idioms.bss.design)
-2. ابحث عن مثل بأي من اللغتين
-3. اقلب البطاقات لمشاهدة الترجمات والشروحات
-4. احفظ المفضلة لديك للرجوع إليها في المستقبل
+1. Visit our website at [idioms.bss.design](https://idioms.bss.design)
+2. Search for an idiom in your preferred language
+3. Click on the card to flip it and see the translation and explanation
+4. Save your favorites for later reference
 
 <div align="center">
   <p>Made with ❤️ by the Saudi English Club</p>
