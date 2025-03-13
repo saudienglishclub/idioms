@@ -1,4 +1,5 @@
 # كنز الأمثال - Idioms Treasure
+
 <p align="center">
   <img src="https://i.imgur.com/WgwIZOl.png" alt="Idioms Treasure Logo">
 </p>
@@ -17,6 +18,12 @@ This project aims to bridge the language gap and promote cultural understanding 
 
 Join us in this exciting journey of language discovery and cultural exchange!
 
+<p align="center">
+  <a href="https://idioms.bss.design" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Idioms%20Treasure-blue?style=for-the-badge&logo=internet-explorer" alt="Visit Idioms Treasure" width="300">
+  </a>
+</p>
+
 ---
 
 ## وصف المشروع
@@ -32,3 +39,9 @@ Join us in this exciting journey of language discovery and cultural exchange!
 يهدف هذا المشروع إلى سد الفجوة اللغوية وتعزيز التفاهم الثقافي من خلال استكشاف التعبيرات الاصطلاحية. سواء كنت متحدثًا باللغة العربية تتطلع إلى تحسين مهاراتك في اللغة الإنجليزية أو متحدثًا باللغة الإنجليزية مهتمًا بالتعمق في اللغويات العربية، يوفر كنز الأمثال موردًا قيمًا لمحبي اللغة.
 
 انضم إلينا في هذه الرحلة المثيرة لاكتشاف اللغة والتبادل الثقافي!
+
+<p align="center">
+  <a href="https://idioms.bss.design" target="_blank">
+    <img src="https://img.shields.io/badge/زيارة-كنز%20الأمثال-blue?style=for-the-badge&logo=internet-explorer" alt="زيارة كنز الأمثال" width="300">
+  </a>
+</p>
