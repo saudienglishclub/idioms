@@ -1,4 +1,5 @@
 # كنز الأمثال - Idioms Treasure
+![Idioms Treasure Logo](https://i.imgur.com/WgwIZOl.png)
 
 ## Project Description
 
